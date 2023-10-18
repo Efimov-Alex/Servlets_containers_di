@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.concurrent.atomic.AtomicLong;
 
-@Repository
+
 public class PostRepository {
     private List<Post> posts = new ArrayList<>();
 
